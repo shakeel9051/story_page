@@ -1,0 +1,20 @@
+#ss{
+    border-radius : 50% 50 50%  ;
+}
+img {
+    border-radius : 50% 50% 50% 50% ;
+}
+#sh{
+    border-radius : 0 0 0 0 ;
+}
+body{
+    background-color: brown;
+    color:whitesmoke;
+    font-size: 25px;
+}
+h1{
+    color: burlywood;
+}
+sa{
+    border-radius : 0% 50% 50% 50% ;
+}
